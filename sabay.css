@@ -1,0 +1,57 @@
+html,body{
+	padding: 0;
+	margin: 0;
+}
+/*#header .logo{
+	background-color: black;
+}
+#header .menu{
+    background-color: red;
+    height: 100%;
+    width: 100%; 
+}*/
+/*#header .collapseul ul li a{
+	font-family: Koulen,Arial,Helvetica,sans-serif;
+	font-size: 15px;
+	color: white;
+}*//*
+#header  ul li a{
+	font-family: Koulen,Arial,Helvetica,sans-serif;
+	font-size: 15px;
+	color: white;
+	transition: 0.5s;
+}
+#header ul li a:hover{
+	color: lightgray;
+}
+#header .active{
+	background-color: blue;
+	height: 100%;
+
+}*/
+
+/*#header .top-header{
+	background-color: black;
+	width: 100%;
+	height: 100%;
+}
+#header .top-menu{
+	background-color: red;
+	width: 100%;
+	height: 100%;
+}
+#header .active{
+	background-color: blue;
+	height: 45px;
+	padding: 10px;
+
+}
+#header .navbar-brand{
+	color: white;
+	font-family: Koulen,Arial,Helvetica,sans-serif;
+	transition: 0.3s;
+}
+#header .navbar-brand:hover{
+    color: lightblue;
+}
+*/
